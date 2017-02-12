@@ -5,6 +5,7 @@
 A "work in progress" iOS jailbreak for 64-bit devices created by [qwertyoruiopz](https://twitter.com/qwertyoruiopz) and [marcograssi](marcograss).
 
 Jeffrey Abbinante's version includes the HDMI fix essentially making an unoffical beta 8. The source is the same as the latest commit of yalu102 as of 2/11/17, but a precompiled version is available. Feel free to reverse the ipa and the source here as you wish for research and/or checking for malware. The license is the same as the original and the ipa I uploaded is what I use on my personal device. You will need to self sign the ipa using Cydia Impactor or any other tool.
+The SHA256 sum of my ipa is 2edb9ca96573acccac04baf56504b89876c7cf19a0d2c300862d97e27a38ee. It is recommended to verify the checksum before you deploy the app on your device as it could have been tampered with or corrupted during the download.
 
 Please use the "Issues" tab for **code related** issues only. If you need support please search on [/r/jailbreak](https://reddit.com/r/jailbreak) before posting a question there.
 
